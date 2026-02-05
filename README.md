@@ -1,4 +1,4 @@
-# THE MIND LAB
+# Reflex
 
 ## 🛠 Getting Started
 
